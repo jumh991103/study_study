@@ -1,0 +1,16 @@
+{
+ "format_version": 1,
+ "files": {
+  ".gitattributes": {
+   "size": 1602,
+   "blob_id": "c8cc82b25efd38e4d14d1e8dc52c09b8f01ec384"
+  },
+  "unsloth-gemma3-1b-finetune-nutrition_q4km.gguf": {
+   "size": 806057888,
+   "blob_id": "a48480aaa0f0955f7b3480f24c0bb943f38c56a6",
+   "lfs_sha256": "6fb149739edcb33e13e4bddba67c2410c0e74c0642c6630640f27d2bc3b2af5b",
+   "lfs_size": 806057888,
+   "xet_hash": "659f1a9285fcb1801e7e157b8ecd783c29a8dd37c97443ce1376713b11bc40af"
+  }
+ }
+}
