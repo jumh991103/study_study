@@ -1,0 +1,23 @@
+# 개발 패키지
+jupyter==1.1.1 # 주피터 노트북
+python-dotenv==1.1.1 # 환경 변수 관리
+
+# LangChain 패키지
+langchain==1.0.2 # LangChain 메인 패키지
+langchain-core==1.0.0 # LangChain 코어 기능
+langchain-community==0.4 # LangChain 커뮤니티 확장
+langsmith==0.4.38 # LangSmith 프로젝트 로그 관리
+langchain-experimental==0.0.42 # 새로운 기능을 미리 사용해볼 수 있는 패키지
+langgraph==1.0.1
+
+# 모델별 패키지
+langchain-openai==1.0.1 # OpenAI 모델 통합
+langchain-groq==1.0.0 # Groq 모델 통합
+
+# Tools 패키지
+langchain-tavily==0.2.12 #  AI가 웹 검색을 할 수 있게 해주는 도구
+matplotlib # 그래프 그리는 모듈
+koreanize-matplotlib # matplotlib의 한국어 깨짐 방지 모듈
+pandas==2.3.3 # 데이터 분석 모듈 
+mysql-connector-python==9.5.0 # MySql 커넥션 모듈 
+setuptools==84.0.0
